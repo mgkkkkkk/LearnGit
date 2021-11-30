@@ -8,3 +8,5 @@ Git has a mutable index called stage
 
 git changed
 git changed again.
+
+merge test
